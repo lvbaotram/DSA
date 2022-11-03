@@ -1,2 +1,3 @@
 # DSA
-Xin chào
+Xin chào...
+Khi nào thi xong học kỳ mình sẽ quay lại viết tiếp nhá
